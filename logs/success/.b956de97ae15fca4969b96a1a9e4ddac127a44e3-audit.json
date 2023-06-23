@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\.b956de97ae15fca4969b96a1a9e4ddac127a44e3-audit.json",
+    "files": [
+        {
+            "date": 1687438392778,
+            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-22-18-success.log",
+            "hash": "a59a93a88c3dac5790babccff568752432c5063ac193dd07c0b3821b3fbb70ef"
+        }
+    ],
+    "hashType": "sha256"
+}
