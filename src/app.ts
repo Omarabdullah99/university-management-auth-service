@@ -1,7 +1,9 @@
-import express, { Application, Request, Response } from 'express'
+import express, { Application } from 'express'
 // import userService from './app/modules/users/user.service'
-import userRouter from './app/modules/users/user.route'
+
 import cors from 'cors'
+import globalErrorHandler from './app/middlewares/globalErrorHandler'
+import { userRoutes } from './app/modules/users/user.route'
 const app: Application = express()
 
 //cors use
@@ -12,16 +14,14 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 //Application routes
-app.use('/api/v1/users', userRouter)
+app.use('/api/v1/users', userRoutes)
 
-app.get('/', async (req: Request, res: Response) => {
-  // await userService.createUser({
-  //   id:"999",
-  //   password:"hfkl",
-  //   role:"student"
-  // })
-
-  res.send('Working successfully')
+// tesing
+app.get('/', () => {
+  throw new Error('Testing Error logger')
 })
+
+//global error Handler
+app.use(globalErrorHandler)
 
 export default app
