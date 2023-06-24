@@ -1,7 +1,7 @@
 import { Model, Schema, model } from 'mongoose'
 import { IUser } from './users.interface'
 
-type UserModel = Model<IUser, object>
+type UserModel = Model<IUser, Record<string, unknown>>
 
 //user er schema create
 const userSchema = new Schema<IUser>(
