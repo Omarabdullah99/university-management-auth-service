@@ -6,69 +6,9 @@
     "auditLog": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\.b956de97ae15fca4969b96a1a9e4ddac127a44e3-audit.json",
     "files": [
         {
-            "date": 1687538908417,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-23-22-success.log",
-            "hash": "e7da00eb19882761a69fdf0e238b1f74ece23b71ae19af33965daf69a06fad8e"
-        },
-        {
-            "date": 1687539699291,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-23-23-success.log",
-            "hash": "750f92d6239a242317f44fc91ecc0575c2f7b11a9a02236a33fb74c6f7dab10f"
-        },
-        {
-            "date": 1687578909042,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-09-success.log",
-            "hash": "8b43a986ce710cb25f846918915c3b24cdbe271e65895929c96135b0daf3a559"
-        },
-        {
-            "date": 1687579202468,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-10-success.log",
-            "hash": "616ab7579bc02cf9c7165f26fb728be5a709db30da22fdff1fdafb6e08e2d6ce"
-        },
-        {
-            "date": 1687583251701,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-11-success.log",
-            "hash": "a92a87f9a699ac873beded226d22c130c921062003b4145edc7928f94d2bf19f"
-        },
-        {
-            "date": 1687587884300,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-12-success.log",
-            "hash": "5e55a47159aab339d1e2f57f8dc6a4c84f48b2d0eaac2ba317ee041d85ef5c65"
-        },
-        {
-            "date": 1687598427973,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-15-success.log",
-            "hash": "17edad8c219e33007e8cbc418b7c50ca8206c0d1c6399211fc70e29bf69d819f"
-        },
-        {
-            "date": 1687600973484,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-16-success.log",
-            "hash": "4b40f593360f95766051c66472f92c06d1b884cdc424698a322e01ebc509ebae"
-        },
-        {
-            "date": 1687607186667,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-17-success.log",
-            "hash": "d24fe1a9741e35e28ca4a97e6f8e5887a56a5dfa42ddd583ef368044e6fcd4ac"
-        },
-        {
-            "date": 1687608003587,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-18-success.log",
-            "hash": "8d563746936c4ccf3a252fb4115b0dbe63702b20e4445cbf4b649b82ffb1e525"
-        },
-        {
-            "date": 1687614187362,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-19-success.log",
-            "hash": "f909390bfbdef4641aec9c743aac4034a41c9feab1c225d35a053a935064a29c"
-        },
-        {
-            "date": 1687615590509,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-20-success.log",
-            "hash": "1bc46a558741e705b4dbbe9f4be94f5ee1a173dbaa3c6ce49e7b89bb42f8d662"
-        },
-        {
-            "date": 1687621212342,
-            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-24-21-success.log",
-            "hash": "234c452f1563ad61ce6c74b3200286e6088990c8adefa803882781a57b3e5e61"
+            "date": 1687873946848,
+            "name": "G:\\programinghero_nextlevel2\\milestone3\\university-management-auth-service\\logs\\success\\university-s-2023-06-27-19-success.log",
+            "hash": "5a74f8f4658b729c188c1a4705283929da4e60192e846a9a3c8d2a7bf2f5d8de"
         }
     ],
     "hashType": "sha256"
